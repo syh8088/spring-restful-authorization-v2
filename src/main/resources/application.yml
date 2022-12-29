@@ -6,8 +6,8 @@ server:
 spring:
   datasource:
     driverClassName: com.mysql.jdbc.Driver
-    url: 'jdbc:mysql://syh80882.cafe24.com/syh80882'
-    username: syh80882
+    url: jdbc:mysql://syh80883.cafe24.com/syh80883
+    username: syh80883
     password: abc123!@
     sql-script-encoding: utf-8
   messages:
